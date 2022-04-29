@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Project: CSVAnalyser
+  ~ Copyright (c) 2022 Xilin Jia <https://github.com/XilinJia>
+  ~ All rights reserved.
+  ~ This software is released under the MIT license
+  ~ https://opensource.org/licenses/MIT
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="me.djia.common"/>
